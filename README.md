@@ -1,6 +1,6 @@
 # ncnn-android-yolov5_obb
 
-# just for study
+# study
 
 ncnn android yolov5_obb 
 
