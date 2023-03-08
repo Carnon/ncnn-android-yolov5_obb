@@ -1,4 +1,7 @@
 # ncnn-android-yolov5_obb
+
+# just for study
+
 ncnn android yolov5_obb 
 
 This is a sample ncnn android project, it depends on ncnn library and opencv
