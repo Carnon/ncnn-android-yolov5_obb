@@ -28,5 +28,4 @@ https://github.com/nihui/opencv-mobile
 
 
 ## Reference：
-https://github.com/Tencent/ncnn
 https://github.com/hukaixuan19970627/yolov5_obb
