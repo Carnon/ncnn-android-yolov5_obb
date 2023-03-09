@@ -5,7 +5,6 @@
 #include <android/asset_manager_jni.h>
 #include "gpu.h"
 #include "yolov5obb.h"
-#include "arm_neon.h"
 
 JNIEXPORT jint JNI_OnLoad(JavaVM* vm, void* reserved){
     ncnn::create_gpu_instance();
